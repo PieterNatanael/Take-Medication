@@ -14,19 +14,27 @@ struct MainAppView: View {
     
     var body: some View {
         TabView(selection: $selectedTab) {
-            ContentView()
+            
+            RecordView()
                 .tabItem {
-                    Image(systemName: "timer.circle.fill")
-                    Text("TimeTell")
+                    Image(systemName: "record.circle.fill")
+                    Text("Take Medication")
                 }
                 .tag(0)
+            
+            ContentView()
+                .tabItem {
+                    Image(systemName: "pills.fill")
+                    Text("Take Medication")
+                }
+                .tag(1)
             
            NotesView()
                 .tabItem {
                     Image(systemName: "square.and.pencil")
                     Text("Notes")
                 }
-                .tag(1)
+                .tag(2)
             
 //            DiaryView(dataStore: DataStore())
 //                .tabItem {
@@ -35,5 +43,6 @@ struct MainAppView: View {
 //                }
 //                .tag(2)
         }
+        .accentColor(Color(#colorLiteral(red: 0.5818830132, green: 0.2156915367, blue: 1, alpha: 1)))
     }
 }
