@@ -18,7 +18,7 @@ struct MainAppView: View {
             RecordView()
                 .tabItem {
                     Image(systemName: "record.circle.fill")
-                    Text("Take Medication")
+                    Text("Tracking")
                 }
                 .tag(0)
             
