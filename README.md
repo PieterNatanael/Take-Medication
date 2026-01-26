@@ -1,3 +1,9 @@
+Keep track of your medication with Take Medication, the simple app that helps you manage your daily doses. Just press any of the 24 buttons, each representing an hour of the day, and you'll get timely reminders to take your medication. It's easy, quick, and ensures you never miss a dose!
+Add medication notes and history, including the name of the medication, allergies, daily doses, and a checkmark to mark each dose as completed. Activities will be automatically timestamped for easy tracking.
+Stay healthy and on track with Take Medication.
+
+Developer : Pieter Yoshua Natanael
+
 Privacy Policy for Take Medication
 
 1. Introduction
