@@ -1,4 +1,6 @@
 Privacy Policy
+
+
 Take Medication
 Last updated: April 2026
 
