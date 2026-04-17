@@ -1,6 +1,10 @@
 Terms of Use
+
+
 Take Medication
 Last updated: April 2026
+
+
 These Terms of Use ("Terms") govern your use of the Take Medication app ("the App"), developed by Pieter Yoshua Natanael ("Developer"). By downloading or using the App, you agree to these Terms.
 1. Purpose of the App
 Take Medication is a simple reminder and tracking tool designed to help users log and manage medication schedules.
